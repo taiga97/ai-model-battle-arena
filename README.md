@@ -7,13 +7,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/)
 
-## ✨ 特徴
-
-- 🥊 **リアルタイム対戦**: 2つのAIモデルを同時に比較
-- 📊 **多様なデータセット**: gsm8k, openr1_math, custom, elyza データセットをサポート
-- 🎨 **美しいUI**: レスポンシブデザインとモダンなインターフェース
-- ⚡ **高速表示**: キャッシュ機能による高速データ読み込み
-- 🔍 **詳細分析**: 推論過程から評価スコアまで完全可視化
 
 ## 機能
 
