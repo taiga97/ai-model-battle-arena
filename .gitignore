@@ -37,6 +37,10 @@ venv.bak/
 *.swo
 *~
 
+# Cline/Claude
+.claude/
+.clinerules
+
 # OS
 .DS_Store
 .DS_Store?
